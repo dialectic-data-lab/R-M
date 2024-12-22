@@ -1,0 +1,103 @@
+---
+title: "Cross-functional Alignment"
+---
+
+Research planning that coordinates research goals and activities across multiple teams, departments, and disciplines to maximize impact while minimizing redundancy and resource conflicts.
+
+### Description
+
+Cross-functional Research Planning is the process of coordinating research efforts across different organizational units and disciplines. It enables teams to share resources, combine insights, and create comprehensive research programs that serve multiple stakeholder needs simultaneously.
+
+This stage focuses on creating alignment between different research streams, identifying opportunities for collaboration, and establishing shared processes and standards. It helps organizations move from siloed research activities to an integrated research ecosystem that maximizes value and efficiency.
+
+Cross-functional planning typically operates on both strategic and tactical levels, requiring regular coordination and communication to maintain alignment while adapting to changing organizational needs.
+
+### Typical Activities
+
+-   Research agenda harmonization
+
+-   Shared resource planning
+
+-   Knowledge sharing framework development
+
+-   Cross-team coordination processes
+
+-   Standardization of methods and tools
+
+-   Research calendar coordination
+
+-   Stakeholder management across units
+
+-   Combined insight synthesis
+
+-   Shared repository management
+
+-   Joint planning sessions
+
+-   Research democratization planning
+
+-   Capability sharing arrangements
+
+### Variations
+
+-   Hub-and-Spoke Model - Central research team supporting multiple units
+
+-   Distributed Model - Coordinated but independent research teams
+
+-   Matrix Model - Shared resources across project teams
+
+-   Community of Practice - Loose coordination with shared standards
+
+-   Embedded Model - Researchers integrated into product teams
+
+### Resources Required
+
+-   Team Composition
+
+    -   Research leads from each unit
+
+    -   Program coordinators
+
+    -   Knowledge management lead
+
+    -   Operations representatives
+
+    -   Stakeholder representatives
+
+    -   Central research coordinator
+
+-   Tools and Templates
+
+    -   Cross-functional calendar
+
+    -   Resource sharing agreements
+
+    -   Communication frameworks
+
+    -   Shared research repositories
+
+    -   Standardized templates
+
+    -   Coordination playbooks
+
+### Planning Questions To Be Answered
+
+-   How do we align research across teams?
+
+-   Where are the opportunities for collaboration?
+
+-   How do we share resources effectively?
+
+-   What standards should be unified?
+
+-   How do we avoid duplicate research?
+
+-   What coordination mechanisms are needed?
+
+-   How do we maintain research quality across teams?
+
+-   Where can we create research synergies?
+
+-   How do we balance local and global research needs?
+
+-   What shared infrastructure is required?

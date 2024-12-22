@@ -1,0 +1,193 @@
+---
+title: "Interviews"
+---
+
+A systematic method of gathering qualitative data through structured or semi-structured conversations with users, stakeholders, or subject matter experts.
+
+## Description
+
+User interviews are a fundamental research method in UX that involves direct conversation with participants to gather insights about their experiences, needs, behaviors, and attitudes. The method draws from social science interviewing techniques, particularly qualitative research methods developed in sociology and anthropology.
+
+This method stands out for its flexibility and depth, allowing researchers to explore both anticipated and unexpected areas of interest through careful questioning and active listening. Unlike surveys or quantitative methods, interviews enable researchers to probe deeper into responses, clarify ambiguities, and observe non-verbal cues.
+
+Interviews can range from highly structured to completely unstructured, though semi-structured interviews are most common in UX research. This approach uses a prepared interview guide while allowing for spontaneous follow-up questions and exploration of emerging themes. The method's theoretical foundation combines elements of cognitive psychology, conversation analysis, and grounded theory approaches to qualitative research.
+
+## Key Characteristics
+
+-   Direct interaction between researcher and participant
+
+-   Flexible exploration of topics
+
+-   Rich qualitative data collection
+
+-   Combination of planned and spontaneous questioning
+
+-   Observable non-verbal communication
+
+## Variations
+
+-   Structured interviews - fixed questions in fixed order
+
+-   Semi-structured interviews - guided but flexible conversations
+
+-   Unstructured interviews - conversational, minimal guidance
+
+-   Expert interviews - focused on domain knowledge
+
+-   Ethnographic interviews - conducted in context
+
+## Resources
+
+-   1-2 interviewers
+
+-   Recording equipment
+
+-   Note-taking materials
+
+-   Interview guides
+
+-   Consent forms
+
+-   Quiet space or meeting room
+
+## Research Application
+
+### When to Use
+
+-   Early discovery research
+
+-   Understanding user needs and behaviors
+
+-   Gathering detailed feedback on concepts
+
+-   Exploring complex topics
+
+-   Investigating specific incidents or experiences
+
+### Research Questions It Can Answer
+
+-   What are users' goals and motivations?
+
+-   How do users currently solve problems?
+
+-   What are users' pain points and needs?
+
+-   How do users think about specific concepts?
+
+-   What influences users' decisions?
+
+### Types of Insights
+
+-   Behavioral patterns
+
+-   Emotional responses
+
+-   Mental models
+
+-   User needs and goals
+
+-   Context of use
+
+-   Personal narratives
+
+-   Decision-making processes
+
+## Common Pitfalls & Solutions
+
+### Known Issues
+
+-   Leading questions biasing responses
+
+-   Social desirability bias
+
+-   Recall bias in historical accounts
+
+-   Insufficient probing of responses
+
+-   Poor note-taking affecting analysis
+
+### Solutions
+
+-   Carefully crafted neutral questions
+
+-   Interview guide review and testing
+
+-   Active listening techniques
+
+-   Recording sessions
+
+-   Two-person interview teams
+
+-   Structured note-taking protocols
+
+-   Regular practice of interviewing skills
+
+## Integration
+
+### Complementary Methods
+
+-   Observations
+
+-   Surveys
+
+-   Diary studies
+
+-   Usability testing
+
+-   Journey mapping
+
+### Method Combinations
+
+-   Follow with contextual inquiry
+
+-   Pair with card sorting
+
+-   Combine with cognitive walkthrough
+
+-   Precede participatory design sessions
+
+## Examples & Case Studies
+
+### Real-World Applications
+
+-   Healthcare: Understanding patient journey experiences
+
+-   Finance: Investigating investment decision-making
+
+-   Retail: Exploring shopping behaviors and preferences
+
+-   Enterprise: Understanding workflow optimization needs
+
+### Scalability Issues
+
+-   Time-intensive for both conducting and analysis
+
+-   Scheduling challenges with larger sample sizes
+
+-   Consistency across multiple interviewers
+
+-   Resource requirements for transcription and analysis
+
+## References & Resources
+
+### Academic Sources
+
+-   "Interviewing Users" by Steve Portigal
+
+-   "Qualitative Research Interviewing" by Steinar Kvale
+
+-   "Universal Methods of Design" by Martin & Hanington
+
+### Tools & Software
+
+-   Recording and transcription tools
+
+-   Video conferencing platforms
+
+-   Analysis software (NVivo, ATLAS.ti)
+
+-   Note-taking and synthesis tools
+
+-   Interview guide templates
+
+-   Consent form templates

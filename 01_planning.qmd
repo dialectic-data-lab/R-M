@@ -1,0 +1,175 @@
+---
+title: "Project Planning"
+---
+
+Organizing research activities, resources, and partnerships to effectively execute research initiatives while managing constraints and stakeholder relationships.
+
+### Description
+
+Project Planning is a comprehensive approach to organizing and coordinating all elements needed for successful research execution. It focuses on resource allocation, budget management, partnership development, and securing necessary permissions while ensuring alignment with research goals and organizational constraints.
+
+This method coordinates the practical aspects of research implementation, from team composition and budget allocation to building essential partnerships and securing data access. It creates a foundation for sustainable research operations that can adapt to changing needs and constraints.
+
+Project Planning typically occurs after goal setting but before detailed research design, though it may require updates throughout the project lifecycle as requirements and partnerships evolve.
+
+### Typical Activities
+
+-   Resource capacity planning and allocation
+
+-   Budget development and tracking
+
+-   Partnership identification and development
+
+-   Data access planning and permission securing
+
+-   Timeline development and management
+
+-   Team composition and role definition
+
+-   Vendor evaluation and selection
+
+-   Infrastructure and tool assessment
+
+-   Risk assessment and mitigation planning
+
+### Variations
+
+-   Rapid Planning - Streamlined for quick-turn research
+
+-   Enterprise Planning - Complex multi-stakeholder projects
+
+-   Lean Planning - Resource-constrained environments
+
+-   Collaborative Planning - Partner-heavy research initiatives
+
+### Resources Required
+
+-   Team Composition
+
+    -   Research Operations lead
+
+    -   Project manager
+
+    -   Budget stakeholders
+
+    -   Legal/compliance team
+
+    -   Partnership manager
+
+    -   Research team leads
+
+-   Tools and Templates
+
+    -   Resource planning matrix
+
+    -   Budget templates
+
+    -   Partnership agreement templates
+
+    -   Data access request forms
+
+    -   Project timeline tools
+
+    -   Risk assessment framework
+
+### When to Use
+
+-   New research initiative launches
+
+-   Annual planning cycles
+
+-   Partnership development phases
+
+-   Budget planning periods
+
+-   Team expansion planning
+
+-   Infrastructure upgrades
+
+-   New data access requirements
+
+-   Cross-organizational projects
+
+### Planning Questions To Be Answered
+
+-   What resources are required for success?
+
+-   How should the budget be structured and allocated?
+
+-   Which partnerships are needed and how do we develop them?
+
+-   What permissions and access are required?
+
+-   How do we ensure sustainable resource utilization?
+
+-   What are our critical dependencies?
+
+-   How do we manage partner relationships effectively?
+
+-   What are potential risks and how do we mitigate them?
+
+### Common Challenges and Solutions
+
+-   Challenges
+
+    -   Limited resources or budget
+
+    -   Complex partnership requirements
+
+    -   Data access barriers
+
+    -   Timeline constraints
+
+    -   Stakeholder alignment
+
+-   Solutions
+
+    -   Flexible resource allocation models
+
+    -   Clear partnership frameworks
+
+    -   Streamlined access request processes
+
+    -   Buffer planning
+
+    -   Regular stakeholder communication
+
+### Integration Points
+
+-   Goal Development
+
+    -   Resource requirements alignment
+
+    -   Partnership needs identification
+
+-   Research Design
+
+    -   Methodology feasibility assessment
+
+    -   Resource allocation validation
+
+-   Research Operations
+
+    -   Implementation planning
+
+    -   Partnership management
+
+    -   Budget tracking
+
+### Success Metrics
+
+-   Resource utilization efficiency
+
+-   Budget adherence
+
+-   Partnership effectiveness
+
+-   Data access success rate
+
+-   Timeline adherence
+
+-   Stakeholder satisfaction
+
+-   Risk mitigation effectiveness
+
+-   Partnership sustainability

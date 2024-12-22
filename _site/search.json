@@ -1,0 +1,477 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to User Research Methods",
+    "section": "",
+    "text": "This compilation represents a systematic categorization of methodological approaches employed in Human-Computer Interaction (HCI) and user research. Rather than serving as a prescriptive guide, this reference work aims to establish a comprehensive taxonomy of research methods that have emerged and evolved within our field.",
+    "crumbs": [
+      "Index"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The site is mainained by Chandni Naidu Deadwyler, a design researcher working at the intersection of technology governance and human-centered design. Her work explores how digital public infrastructure shapes societal futures, with a particular focus on examining how different societies implement and adapt to digital transformation. Through her interdisciplinary background in architecture, human-computer interaction, and policy design, she brings a unique analytical perspective to understanding complex socio-technical systems.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Research Goal Development",
+    "section": "",
+    "text": "This is an early step in bridging the gap between business or program objectives and research activities. At this stage, we transform high-level organizational goals into specific, measurable research objectives and testable hypotheses. It employs a structured approach to ensure research efforts directly address business needs while maintaining focus on user-centered outcomes.\nThe method draws from both scientific methodology and business strategy frameworks, incorporating elements of OKR (Objectives and Key Results) planning and hypothesis-driven development. It emphasizes collaborative goal-setting that aligns stakeholder needs with research capabilities and resources.\nResearch Goal Development typically occurs at the beginning of the research planning process but can be revisited throughout the project life cycle as new insights emerge or business priorities shift.\nTypical Activities:\n\nAlignment between business objectives and research goals\nSMART criteria application (Specific, Measurable, Achievable, Relevant, Time-bound)\nHypothesis-driven approach to goal formation\nIterative refinement process\nStakeholder consensus building\nClear success metrics definition\n\n\n\n\nQuick Goals - Rapid goal-setting for time-sensitive research\nStrategic Goals - Long-term research agenda development\nHypothesis Mapping - Focus on assumption testing and validation\nImpact Mapping - Goals linked directly to business metrics\n\n\n\n\n\nTeam Composition\n\nResearch lead\nProduct stakeholders\nBusiness stakeholders\nTechnical stakeholders (as needed)\n\nTools and Templates\n\nGoal framework template\nHypothesis statement template\nResearch question matrix\nImpact assessment worksheet\n\n\n\n\n\n\nStarting new research initiatives\nQuarterly research planning\nProduct strategy shifts\nNew feature development\nAddressing identified knowledge gaps\nValidating business assumptions\n\n\n\n\n\nWhat are our critical knowledge gaps?\nWhich assumptions need validation?\nHow will research impact decision-making?\nWhat metrics indicate success?",
+    "crumbs": [
+      "Planning",
+      "Research Goal Development"
+    ]
+  },
+  {
+    "objectID": "goals.html#description",
+    "href": "goals.html#description",
+    "title": "",
+    "section": "",
+    "text": "This is an early step in bridging the gap between business or program objectives and research activities. At this stage, we transform high-level organizational goals into specific, measurable research objectives and testable hypotheses. It employs a structured approach to ensure research efforts directly address business needs while maintaining focus on user-centered outcomes.\nThe method draws from both scientific methodology and business strategy frameworks, incorporating elements of OKR (Objectives and Key Results) planning and hypothesis-driven development. It emphasizes collaborative goal-setting that aligns stakeholder needs with research capabilities and resources.\nResearch Goal Development typically occurs at the beginning of the research planning process but can be revisited throughout the project lifecycle as new insights emerge or business priorities shift.\nTypical Activities:\n\nAlignment between business objectives and research goals\nSMART criteria application (Specific, Measurable, Achievable, Relevant, Time-bound)\nHypothesis-driven approach to goal formation\nIterative refinement process\nStakeholder consensus building\nClear success metrics definition\n\n\n\n\nQuick Goals - Rapid goal-setting for time-sensitive research\nStrategic Goals - Long-term research agenda development\nHypothesis Mapping - Focus on assumption testing and validation\nImpact Mapping - Goals linked directly to business metrics\n\n\n\n\n\nTeam Composition\n\nResearch lead\nProduct stakeholders\nBusiness stakeholders\nTechnical stakeholders (as needed)\n\nTools and Templates\n\nGoal framework template\nHypothesis statement template\nResearch question matrix\nImpact assessment worksheet\n\n\n\n\n\n\nStarting new research initiatives\nQuarterly research planning\nProduct strategy shifts\nNew feature development\nAddressing identified knowledge gaps\nValidating business assumptions\n\n\n\n\n\nWhat are our critical knowledge gaps?\nWhich assumptions need validation?\nHow will research impact decision-making?\nWhat metrics indicate success?"
+  },
+  {
+    "objectID": "goals.html#section",
+    "href": "goals.html#section",
+    "title": "Research Goal Development",
+    "section": "",
+    "text": "This is an early step in bridging the gap between business or program objectives and research activities. At this stage, we transform high-level organizational goals into specific, measurable research objectives and testable hypotheses. It employs a structured approach to ensure research efforts directly address business needs while maintaining focus on user-centered outcomes.\nThe method draws from both scientific methodology and business strategy frameworks, incorporating elements of OKR (Objectives and Key Results) planning and hypothesis-driven development. It emphasizes collaborative goal-setting that aligns stakeholder needs with research capabilities and resources.\nResearch Goal Development typically occurs at the beginning of the research planning process but can be revisited throughout the project life cycle as new insights emerge or business priorities shift.\nTypical Activities:\n\nAlignment between business objectives and research goals\nSMART criteria application (Specific, Measurable, Achievable, Relevant, Time-bound)\nHypothesis-driven approach to goal formation\nIterative refinement process\nStakeholder consensus building\nClear success metrics definition\n\n\n\n\nQuick Goals - Rapid goal-setting for time-sensitive research\nStrategic Goals - Long-term research agenda development\nHypothesis Mapping - Focus on assumption testing and validation\nImpact Mapping - Goals linked directly to business metrics\n\n\n\n\n\nTeam Composition\n\nResearch lead\nProduct stakeholders\nBusiness stakeholders\nTechnical stakeholders (as needed)\n\nTools and Templates\n\nGoal framework template\nHypothesis statement template\nResearch question matrix\nImpact assessment worksheet\n\n\n\n\n\n\nStarting new research initiatives\nQuarterly research planning\nProduct strategy shifts\nNew feature development\nAddressing identified knowledge gaps\nValidating business assumptions\n\n\n\n\n\nWhat are our critical knowledge gaps?\nWhich assumptions need validation?\nHow will research impact decision-making?\nWhat metrics indicate success?",
+    "crumbs": [
+      "Planning",
+      "Research Goal Development"
+    ]
+  },
+  {
+    "objectID": "index.html#about-this-guide",
+    "href": "index.html#about-this-guide",
+    "title": "Methods",
+    "section": "",
+    "text": "This resource provides a structured overview of various research methodologies across different stages of the product development lifecycle:\n\n\nThe guide covers both qualitative and quantitative approaches to gathering user data, from contextual inquiry and interviews to surveys and usability testing. These methods help researchers understand user behaviors, needs, and pain points in different contexts.\n\n\n\nOnce data is collected, researchers can employ various techniques to organize and analyze findings. Methods range from statistical analysis for quantitative data to affinity mapping for qualitative insights, helping transform raw data into actionable insights.\n\n\n\nThe guide also explores methods for synthesizing research findings into meaningful deliverables, including personas, journey maps, and service blueprints. These tools help communicate insights effectively to stakeholders and team members.\n\n\n\nProper research planning is essential for success. The guide includes frameworks for research goal development, project planning, and research operations management to ensure studies are well-designed and executed efficiently.\n\n\n\nVarious methods for validating designs and evaluating solutions are covered, from heuristic evaluations to accessibility testing, ensuring that research insights translate into effective user experiences.\nEach method is categorized by: - Data Type (Qualitative, Quantitative, or Mixed) - Mode of Collection - Research Stage - Description and Application\nThis structured approach helps researchers select the most appropriate methods for their specific research questions and project contexts."
+  },
+  {
+    "objectID": "index.html#using-this-guide",
+    "href": "index.html#using-this-guide",
+    "title": "Methods",
+    "section": "",
+    "text": "Whether you’re conducting discovery research, evaluating existing solutions, or validating new designs, this guide serves as a reference for choosing and implementing appropriate research methods. The methods can be combined and adapted to meet specific research needs and constraints.\nRemember that successful user research often requires a mixed-methods approach, combining different techniques to build a comprehensive understanding of user needs and behaviors."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Methods",
+    "section": "Introduction",
+    "text": "Introduction\nThis compilation represents a systematic categorization of methodological approaches employed in Human-Computer Interaction (HCI) and user research. Rather than serving as a prescriptive guide, this reference work aims to establish a comprehensive taxonomy of research methods that have emerged and evolved within our field."
+  },
+  {
+    "objectID": "index.html#purpose-and-context",
+    "href": "index.html#purpose-and-context",
+    "title": "Introduction to User Research Methods",
+    "section": "Purpose and Context",
+    "text": "Purpose and Context\nThe methodological landscape of user research has expanded significantly as digital technologies have become increasingly embedded in social and organizational contexts. This collection addresses the need for a structured framework to understand and access this diverse methodological toolkit. It particularly focuses on methods that have demonstrated empirical validity and practical utility in technology-oriented research settings.",
+    "crumbs": [
+      "Index"
+    ]
+  },
+  {
+    "objectID": "index.html#organizational-framework",
+    "href": "index.html#organizational-framework",
+    "title": "Introduction to User Research Methods",
+    "section": "Organizational Framework",
+    "text": "Organizational Framework\nThe methods are systematically classified according to several key dimensions:\n\nData Type Classification: Distinguishing between qualitative, quantitative, and mixed-method approaches\nMode of Investigation: Categorizing methods by their primary investigative approach (e.g., Direct Elicitation, Observation, Tool-based)\nResearch Stage Application: Identifying where in the research process each method is most appropriately deployed\nMethodological Rigor: Emphasizing established methods while acknowledging emerging approaches\n\n\n\n\n\n\nflowchart LR\n  A[Discovery] --&gt; B[Data Collection]\n  B --&gt; C[Analysis]\n  C --&gt; D[Synthesis]\n  D --&gt; E[Insights]\n  E --&gt; A[Discovery]",
+    "crumbs": [
+      "Index"
+    ]
+  },
+  {
+    "objectID": "index.html#practical-application",
+    "href": "index.html#practical-application",
+    "title": "Introduction to User Research Methods",
+    "section": "Practical Application",
+    "text": "Practical Application\nThis reference work is designed to support: - Research design and planning - Methodological triangulation - Cross-functional alignment in research initiatives - Academic-industry knowledge transfer\nThe accompanying flash card system provides a pragmatic tool for research planning and methodological brainstorming, particularly valuable for early-career researchers and practitioners transitioning between different research contexts.",
+    "crumbs": [
+      "Index"
+    ]
+  },
+  {
+    "objectID": "index.html#notes-on-usage",
+    "href": "index.html#notes-on-usage",
+    "title": "Introduction to User Research Methods",
+    "section": "Notes on Usage",
+    "text": "Notes on Usage\nWhen consulting this reference, consider:\n\nThe contextual appropriateness of methods\nThe resource implications of different methodological choices.\nThe complementarity between different approaches\nThe evolution of methods in response to technological change\n\nThe classification presented here should be viewed as dynamic rather than definitive, acknowledging that methodological innovation continues to shape our field’s investigative capabilities.\nThis organizational framework contributes to the ongoing discourse on research methodology in HCI by:\n\nProviding a structured overview of the methodological landscape\nFacilitating methodological decision-making\nSupporting pedagogical objectives in research methods education\nEncouraging methodological rigor in both academic and industry contexts\n\nWe welcome feedback on this approach sp we can continue to refine it to reflect our growing collective expertise and emerging research practices.",
+    "crumbs": [
+      "Index"
+    ]
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About",
+    "section": "Connect",
+    "text": "Connect\n\nLinkedIn: [Profile Link]\nGoogle Scholar: [Profile Link]\nEmail: [Contact Information]\nSubstack: [Newsletter Link]\nBluesky: [Profile Link]\nMedium: [Blog Link]",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-publications",
+    "href": "about.html#research-publications",
+    "title": "About",
+    "section": "Research Publications",
+    "text": "Research Publications\nAvailable via Google Scholar profile.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "01_goals.html",
+    "href": "01_goals.html",
+    "title": "Developing Research Goals",
+    "section": "",
+    "text": "Transforming business objectives and product strategies into clear, actionable research questions and hypotheses that drive meaningful user research outcomes.\nThis is an early step in bridging the gap between business or program objectives and research activities. At this stage, we transform high-level organizational goals into specific, measurable research objectives and testable hypotheses. It employs a structured approach to ensure research efforts directly address business needs while maintaining focus on user-centered outcomes.\nThe method draws from both scientific methodology and business strategy frameworks, incorporating elements of OKR (Objectives and Key Results) planning and hypothesis-driven development. It emphasizes collaborative goal-setting that aligns stakeholder needs with research capabilities and resources.\nResearch Goal Development typically occurs at the beginning of the research planning process but can be revisited throughout the project life cycle as new insights emerge or business priorities shift.\nTypical Activities:\n\nAlignment between business objectives and research goals\nSMART criteria application (Specific, Measurable, Achievable, Relevant, Time-bound)\nHypothesis-driven approach to goal formation\nIterative refinement process\nStakeholder consensus building\nClear success metrics definition\n\n\nVariations\n\nQuick Goals - Rapid goal-setting for time-sensitive research\nStrategic Goals - Long-term research agenda development\nHypothesis Mapping - Focus on assumption testing and validation\nImpact Mapping - Goals linked directly to business metrics\n\n\n\nResources Required\n\nTeam Composition\n\nResearch lead\nProduct stakeholders\nBusiness stakeholders\nTechnical stakeholders (as needed)\n\nTools and Templates\n\nGoal framework template\nHypothesis statement template\nResearch question matrix\nImpact assessment worksheet\n\n\n\n\nWhen to Use\n\nStarting new research initiatives\nQuarterly research planning\nProduct strategy shifts\nNew feature development\nAddressing identified knowledge gaps\nValidating business assumptions\n\n\n\nPlanning Questions To Be Answered\n\nWhat are our critical knowledge gaps?\nWhich assumptions need validation?\nHow will research impact decision-making?\nWhat metrics indicate success?",
+    "crumbs": [
+      "Planning",
+      "Developing Research Goals"
+    ]
+  },
+  {
+    "objectID": "01_goals.html#section",
+    "href": "01_goals.html#section",
+    "title": "Developing Research Goals",
+    "section": "",
+    "text": "Transforming business objectives and product strategies into clear, actionable research questions and hypotheses that drive meaningful user research outcomes.\nThis is an early step in bridging the gap between business or program objectives and research activities. At this stage, we transform high-level organizational goals into specific, measurable research objectives and testable hypotheses. It employs a structured approach to ensure research efforts directly address business needs while maintaining focus on user-centered outcomes.\nThe method draws from both scientific methodology and business strategy frameworks, incorporating elements of OKR (Objectives and Key Results) planning and hypothesis-driven development. It emphasizes collaborative goal-setting that aligns stakeholder needs with research capabilities and resources.\nResearch Goal Development typically occurs at the beginning of the research planning process but can be revisited throughout the project life cycle as new insights emerge or business priorities shift.\nTypical Activities:\n\nAlignment between business objectives and research goals\nSMART criteria application (Specific, Measurable, Achievable, Relevant, Time-bound)\nHypothesis-driven approach to goal formation\nIterative refinement process\nStakeholder consensus building\nClear success metrics definition\n\n\n\n\nQuick Goals - Rapid goal-setting for time-sensitive research\nStrategic Goals - Long-term research agenda development\nHypothesis Mapping - Focus on assumption testing and validation\nImpact Mapping - Goals linked directly to business metrics\n\n\n\n\n\nTeam Composition\n\nResearch lead\nProduct stakeholders\nBusiness stakeholders\nTechnical stakeholders (as needed)\n\nTools and Templates\n\nGoal framework template\nHypothesis statement template\nResearch question matrix\nImpact assessment worksheet\n\n\n\n\n\n\nStarting new research initiatives\nQuarterly research planning\nProduct strategy shifts\nNew feature development\nAddressing identified knowledge gaps\nValidating business assumptions\n\n\n\n\n\nWhat are our critical knowledge gaps?\nWhich assumptions need validation?\nHow will research impact decision-making?\nWhat metrics indicate success?",
+    "crumbs": [
+      "Planning",
+      "Research Goal Development"
+    ]
+  },
+  {
+    "objectID": "02_planning.html",
+    "href": "02_planning.html",
+    "title": "Project Planning",
+    "section": "",
+    "text": "Organizing research activities, resources, and partnerships to effectively execute research initiatives while managing constraints and stakeholder relationships.\n\nDescription\nProject Planning is a comprehensive approach to organizing and coordinating all elements needed for successful research execution. It focuses on resource allocation, budget management, partnership development, and securing necessary permissions while ensuring alignment with research goals and organizational constraints.\nThis method coordinates the practical aspects of research implementation, from team composition and budget allocation to building essential partnerships and securing data access. It creates a foundation for sustainable research operations that can adapt to changing needs and constraints.\nProject Planning typically occurs after goal setting but before detailed research design, though it may require updates throughout the project lifecycle as requirements and partnerships evolve.\n\n\nTypical Activities\n\nResource capacity planning and allocation\nBudget development and tracking\nPartnership identification and development\nData access planning and permission securing\nTimeline development and management\nTeam composition and role definition\nVendor evaluation and selection\nInfrastructure and tool assessment\nRisk assessment and mitigation planning\n\n\n\nVariations\n\nRapid Planning - Streamlined for quick-turn research\nEnterprise Planning - Complex multi-stakeholder projects\nLean Planning - Resource-constrained environments\nCollaborative Planning - Partner-heavy research initiatives\n\n\n\nResources Required\n\nTeam Composition\n\nResearch Operations lead\nProject manager\nBudget stakeholders\nLegal/compliance team\nPartnership manager\nResearch team leads\n\nTools and Templates\n\nResource planning matrix\nBudget templates\nPartnership agreement templates\nData access request forms\nProject timeline tools\nRisk assessment framework\n\n\n\n\nWhen to Use\n\nNew research initiative launches\nAnnual planning cycles\nPartnership development phases\nBudget planning periods\nTeam expansion planning\nInfrastructure upgrades\nNew data access requirements\nCross-organizational projects\n\n\n\nPlanning Questions To Be Answered\n\nWhat resources are required for success?\nHow should the budget be structured and allocated?\nWhich partnerships are needed and how do we develop them?\nWhat permissions and access are required?\nHow do we ensure sustainable resource utilization?\nWhat are our critical dependencies?\nHow do we manage partner relationships effectively?\nWhat are potential risks and how do we mitigate them?\n\n\n\nCommon Challenges and Solutions\n\nChallenges\n\nLimited resources or budget\nComplex partnership requirements\nData access barriers\nTimeline constraints\nStakeholder alignment\n\nSolutions\n\nFlexible resource allocation models\nClear partnership frameworks\nStreamlined access request processes\nBuffer planning\nRegular stakeholder communication\n\n\n\n\nIntegration Points\n\nGoal Development\n\nResource requirements alignment\nPartnership needs identification\n\nResearch Design\n\nMethodology feasibility assessment\nResource allocation validation\n\nResearch Operations\n\nImplementation planning\nPartnership management\nBudget tracking\n\n\n\n\nSuccess Metrics\n\nResource utilization efficiency\nBudget adherence\nPartnership effectiveness\nData access success rate\nTimeline adherence\nStakeholder satisfaction\nRisk mitigation effectiveness\nPartnership sustainability",
+    "crumbs": [
+      "Planning",
+      "Project Planning"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html",
+    "href": "01_Experiment_Design.html",
+    "title": "Research Design",
+    "section": "",
+    "text": "#H2: Experiment Design and Developing Protocols\nStructuring research studies that defines the appropriate methods, sampling strategy, and protocols to effectively answer research questions and test hypotheses.",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#description",
+    "href": "01_Experiment_Design.html#description",
+    "title": "Research Design",
+    "section": "Description",
+    "text": "Description\nResearch Design is a critical planning method that transforms research goals and questions into structured, executable research plans. It focuses on selecting appropriate methodologies, defining sampling strategies, and creating detailed protocols that ensure research validity and reliability.\nThis method combines scientific rigor with practical constraints to create robust research approaches that can be consistently executed. It includes determining appropriate methods, sample sizes, and data collection approaches while accounting for potential biases and limitations.\nResearch Design typically occurs after goal setting and project planning but before detailed operational planning, though it may be iteratively refined based on pilot studies or changing requirements.",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#typical-activities",
+    "href": "01_Experiment_Design.html#typical-activities",
+    "title": "Research Design",
+    "section": "Typical Activities",
+    "text": "Typical Activities\n\nResearch methodology selection\nSampling strategy development\nProtocol creation and validation\nBias identification and mitigation\nValidity and reliability planning\nEthical considerations assessment\nData collection planning\nAnalysis approach definition\nQuality control planning\nPilot testing design",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#variations",
+    "href": "01_Experiment_Design.html#variations",
+    "title": "Research Design",
+    "section": "Variations",
+    "text": "Variations\n\nMixed Methods Design\nLongitudinal Studies\nRapid Research Design\nExploratory Research Design\nExperimental Design\nComparative Studies\nObservational Research",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#resources-required",
+    "href": "01_Experiment_Design.html#resources-required",
+    "title": "Research Design",
+    "section": "Resources Required",
+    "text": "Resources Required\n\nTeam Composition\n\nResearch methodologist\nSubject matter experts\nResearch operations lead\nEthics/compliance reviewer\nStatistical consultant (if needed)\n\nTools and Templates\n\nResearch protocol template\nSampling framework\nScreening criteria\nData collection instruments\nAnalysis plan template\nQuality control checklists",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#when-to-use",
+    "href": "01_Experiment_Design.html#when-to-use",
+    "title": "Research Design",
+    "section": "When to Use",
+    "text": "When to Use\n\nNew research initiatives\nMethod validation needed\nComplex research questions\nMulti-phase studies\nHigh-stakes research\nNovel research contexts\nRegulatory requirements\nScientific publication goals",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#planning-questions-to-be-answered",
+    "href": "01_Experiment_Design.html#planning-questions-to-be-answered",
+    "title": "Research Design",
+    "section": "Planning Questions To Be Answered",
+    "text": "Planning Questions To Be Answered\n\nWhich methods best address our questions?\nWhat is the appropriate sample size and composition?\nHow do we ensure valid and reliable results?\nWhat are potential sources of bias?\nHow do we maintain research quality?\nWhat ethical considerations exist?\nHow will data be collected and analyzed?\nWhat controls are needed?",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#common-challenges-and-solutions",
+    "href": "01_Experiment_Design.html#common-challenges-and-solutions",
+    "title": "Research Design",
+    "section": "Common Challenges and Solutions",
+    "text": "Common Challenges and Solutions\n\nChallenges\n\nMethod selection uncertainty\nSample access limitations\nResource constraints\nValidity concerns\nTime pressure\n\nSolutions\n\nMethod selection frameworks\nFlexible sampling strategies\nPilot studies\nPeer review process\nQuality control procedures",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#integration-points",
+    "href": "01_Experiment_Design.html#integration-points",
+    "title": "Research Design",
+    "section": "Integration Points",
+    "text": "Integration Points\n\nGoal Development\n\nResearch question alignment\nHypothesis testing approach\n\nProject Planning\n\nResource requirements\nTimeline feasibility\n\nResearch Operations\n\nImplementation planning\nQuality control\nData management",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_Experiment_Design.html#success-metrics",
+    "href": "01_Experiment_Design.html#success-metrics",
+    "title": "Research Design",
+    "section": "Success Metrics",
+    "text": "Success Metrics\n\nMethod appropriateness\nSample quality\nData validity\nProtocol compliance\nResearch quality\nEthical compliance\nTime efficiency\nResource efficiency",
+    "crumbs": [
+      "Planning",
+      "Research Design"
+    ]
+  },
+  {
+    "objectID": "01_planning.html",
+    "href": "01_planning.html",
+    "title": "Project Planning",
+    "section": "",
+    "text": "Organizing research activities, resources, and partnerships to effectively execute research initiatives while managing constraints and stakeholder relationships.\n\nDescription\nProject Planning is a comprehensive approach to organizing and coordinating all elements needed for successful research execution. It focuses on resource allocation, budget management, partnership development, and securing necessary permissions while ensuring alignment with research goals and organizational constraints.\nThis method coordinates the practical aspects of research implementation, from team composition and budget allocation to building essential partnerships and securing data access. It creates a foundation for sustainable research operations that can adapt to changing needs and constraints.\nProject Planning typically occurs after goal setting but before detailed research design, though it may require updates throughout the project lifecycle as requirements and partnerships evolve.\n\n\nTypical Activities\n\nResource capacity planning and allocation\nBudget development and tracking\nPartnership identification and development\nData access planning and permission securing\nTimeline development and management\nTeam composition and role definition\nVendor evaluation and selection\nInfrastructure and tool assessment\nRisk assessment and mitigation planning\n\n\n\nVariations\n\nRapid Planning - Streamlined for quick-turn research\nEnterprise Planning - Complex multi-stakeholder projects\nLean Planning - Resource-constrained environments\nCollaborative Planning - Partner-heavy research initiatives\n\n\n\nResources Required\n\nTeam Composition\n\nResearch Operations lead\nProject manager\nBudget stakeholders\nLegal/compliance team\nPartnership manager\nResearch team leads\n\nTools and Templates\n\nResource planning matrix\nBudget templates\nPartnership agreement templates\nData access request forms\nProject timeline tools\nRisk assessment framework\n\n\n\n\nWhen to Use\n\nNew research initiative launches\nAnnual planning cycles\nPartnership development phases\nBudget planning periods\nTeam expansion planning\nInfrastructure upgrades\nNew data access requirements\nCross-organizational projects\n\n\n\nPlanning Questions To Be Answered\n\nWhat resources are required for success?\nHow should the budget be structured and allocated?\nWhich partnerships are needed and how do we develop them?\nWhat permissions and access are required?\nHow do we ensure sustainable resource utilization?\nWhat are our critical dependencies?\nHow do we manage partner relationships effectively?\nWhat are potential risks and how do we mitigate them?\n\n\n\nCommon Challenges and Solutions\n\nChallenges\n\nLimited resources or budget\nComplex partnership requirements\nData access barriers\nTimeline constraints\nStakeholder alignment\n\nSolutions\n\nFlexible resource allocation models\nClear partnership frameworks\nStreamlined access request processes\nBuffer planning\nRegular stakeholder communication\n\n\n\n\nIntegration Points\n\nGoal Development\n\nResource requirements alignment\nPartnership needs identification\n\nResearch Design\n\nMethodology feasibility assessment\nResource allocation validation\n\nResearch Operations\n\nImplementation planning\nPartnership management\nBudget tracking\n\n\n\n\nSuccess Metrics\n\nResource utilization efficiency\nBudget adherence\nPartnership effectiveness\nData access success rate\nTimeline adherence\nStakeholder satisfaction\nRisk mitigation effectiveness\nPartnership sustainability",
+    "crumbs": [
+      "Planning",
+      "Project Planning"
+    ]
+  },
+  {
+    "objectID": "01_Alignment.html",
+    "href": "01_Alignment.html",
+    "title": "Cross-functional Alignment",
+    "section": "",
+    "text": "Research planning that coordinates research goals and activities across multiple teams, departments, and disciplines to maximize impact while minimizing redundancy and resource conflicts.\n\nDescription\nCross-functional Research Planning is the process of coordinating research efforts across different organizational units and disciplines. It enables teams to share resources, combine insights, and create comprehensive research programs that serve multiple stakeholder needs simultaneously.\nThis stage focuses on creating alignment between different research streams, identifying opportunities for collaboration, and establishing shared processes and standards. It helps organizations move from siloed research activities to an integrated research ecosystem that maximizes value and efficiency.\nCross-functional planning typically operates on both strategic and tactical levels, requiring regular coordination and communication to maintain alignment while adapting to changing organizational needs.\n\n\nTypical Activities\n\nResearch agenda harmonization\nShared resource planning\nKnowledge sharing framework development\nCross-team coordination processes\nStandardization of methods and tools\nResearch calendar coordination\nStakeholder management across units\nCombined insight synthesis\nShared repository management\nJoint planning sessions\nResearch democratization planning\nCapability sharing arrangements\n\n\n\nVariations\n\nHub-and-Spoke Model - Central research team supporting multiple units\nDistributed Model - Coordinated but independent research teams\nMatrix Model - Shared resources across project teams\nCommunity of Practice - Loose coordination with shared standards\nEmbedded Model - Researchers integrated into product teams\n\n\n\nResources Required\n\nTeam Composition\n\nResearch leads from each unit\nProgram coordinators\nKnowledge management lead\nOperations representatives\nStakeholder representatives\nCentral research coordinator\n\nTools and Templates\n\nCross-functional calendar\nResource sharing agreements\nCommunication frameworks\nShared research repositories\nStandardized templates\nCoordination playbooks\n\n\n\n\nPlanning Questions To Be Answered\n\nHow do we align research across teams?\nWhere are the opportunities for collaboration?\nHow do we share resources effectively?\nWhat standards should be unified?\nHow do we avoid duplicate research?\nWhat coordination mechanisms are needed?\nHow do we maintain research quality across teams?\nWhere can we create research synergies?\nHow do we balance local and global research needs?\nWhat shared infrastructure is required?",
+    "crumbs": [
+      "Planning",
+      "Cross-functional Alignment"
+    ]
+  },
+  {
+    "objectID": "01_operations.html",
+    "href": "01_operations.html",
+    "title": "Research-ops",
+    "section": "",
+    "text": "Managing the operational aspects of research execution, including participant recruitment, scheduling, tools management, and day-to-day logistics to ensure smooth research implementation.\n\nDescription\nResearch Operations (ResearchOps) focuses on creating and maintaining the infrastructure and processes needed for efficient research execution. It standardizes operational processes, manages research resources, and ensures consistent quality in research implementation.\nThis method establishes the operational backbone that enables researchers to focus on research activities rather than administrative tasks. It includes managing participant recruitment, maintaining research tools and systems, coordinating schedules, and ensuring compliance with procedures and policies.\nResearchOps typically operates continuously, supporting multiple research projects simultaneously while maintaining and improving operational efficiency over time.\n\n\nTypical Activities\n\nParticipant recruitment and management\nResearch scheduling and calendar management\nTool and platform administration\nVendor relationship management\nIncentive processing and tracking\nResearch environment setup and maintenance\nData management and storage\nConsent and compliance tracking\nDocumentation maintenance\nQuality assurance processes\nTraining coordination\nBudget tracking and reporting\n\n\n\nVariations\n\nCentralized Operations - Single team managing all research operations\nDistributed Operations - Embedded ops support in research teams\nHybrid Model - Core ops team with embedded specialists\nSelf-Service Model - Automated tools and processes\nManaged Service Model - Outsourced operational support\n\n\n\nResources Required\n\nTeam Composition\n\nResearch Operations Manager\nRecruitment Coordinator\nTools Administrator\nData Manager\nCompliance Coordinator\nVendor Manager\n\nTools and Templates\n\nParticipant database\nScheduling system\nResearch tools suite\nDocumentation repository\nTracking spreadsheets\nProcess documentation\nQuality checklists\nOnboarding guides\n\n\n\n\nPlanning Questions To Be Answered\n\nHow do we scale research operations efficiently?\nWhat processes need standardization?\nHow do we manage participant relationships?\nWhat tools and systems are needed?\nHow do we ensure operational quality?\nWhat metrics indicate operational health?\nHow do we maintain compliance at scale?\nWhat is our operational capacity?\nHow do we handle peak demand periods?\nWhat backup systems are needed?",
+    "crumbs": [
+      "Planning",
+      "Research-ops"
+    ]
+  },
+  {
+    "objectID": "01_ethics.html",
+    "href": "01_ethics.html",
+    "title": "Ethics & Governance",
+    "section": "",
+    "text": "A framework for ensuring research activities meet ethical standards, comply with regulations, and protect participant rights while maintaining data integrity and research credibility.\n\nDescription\nResearch Ethics & Governance provides the structural framework for conducting research responsibly and ethically. It ensures all research activities comply with legal requirements, ethical standards, and organizational policies while protecting participant rights and data privacy.\nThis method establishes guidelines and processes for ethical decision-making, risk assessment, and compliance monitoring. It includes developing protocols for informed consent, data protection, and participant privacy, while ensuring research practices meet both regulatory requirements and moral obligations.\nEthics and governance planning should be integrated into all stages of research, from initial planning through execution to data storage and sharing.\n\n\nTypical Activities\n\nEthics policy development and maintenance\nPrivacy impact assessments\nConsent process design\nData protection planning\nRisk assessment and mitigation\nCompliance monitoring\nEthics review procedures\nParticipant rights protection\nConfidentiality protocols\nSensitive data handling\nEthical guidelines creation\nIncident response planning\n\n\n\nVariations\n\nFull Ethics Board Review\nExpedited Review Process\nSelf-Assessment Framework\nRisk-Based Assessment\nDistributed Ethics Review\nCollaborative Governance Model\nIndustry-Specific Frameworks\n\n\n\nResources Required\n\nTeam Composition\n\nEthics Committee Members\nPrivacy Officer\nLegal Counsel\nResearch Lead\nCompliance Manager\nData Protection Officer\n\nTools and Templates\n\nEthics review forms\nConsent templates\nPrivacy assessment tools\nRisk assessment matrix\nCompliance checklists\nIncident report forms\nData handling protocols\nTraining materials\n\n\n\n\nPlanning Questions To Be Answered\n\nWhat ethical risks exist in our research?\nHow do we protect participant rights?\nWhat compliance requirements apply?\nHow do we handle sensitive data?\nWhat review processes are needed?\nHow do we ensure consistent ethical practices?\nWhat documentation is required?\nHow do we handle ethical conflicts?\nWhat training is needed?\nHow do we maintain transparency?",
+    "crumbs": [
+      "Planning",
+      "Research Ethics & Governance"
+    ]
+  },
+  {
+    "objectID": "01_stimuli.html",
+    "href": "01_stimuli.html",
+    "title": "Research Stimuli Preparation",
+    "section": "",
+    "text": "Creating, organizing, and validating research materials such as prototypes, scenarios, data sets, and task guides that participants will interact with during research sessions.\n\nDescription\nResearch Stimuli Preparation involves the methodical development and validation of materials needed to conduct effective research sessions. This method ensures that all materials are appropriate, consistent, and aligned with research objectives while minimizing potential bias or confusion.\nThis method bridges research design and execution by creating the tangible tools and materials that participants will engage with. It includes preparing everything from high-fidelity prototypes to discussion guides, ensuring materials are both rigorous enough for research purposes and accessible for participants.\nStimuli preparation typically occurs after research design but before pilot testing, with refinements made based on pilot feedback and stakeholder input.\n\n\nExamples of materials that may need to be prepared\n\nDigital Prototypes\nPhysical Prototypes\nCard Sorting Materials\nTesting Scenarios\nInterview Guides\nWorkshop Materials\nDesign Artifacts\nData Visualizations\nPrototype preparation and validation\nTask scenario development\nUsability testing protocol\nDiscussion guides\nVisual aids\nInteractive prototypes\nAccessibility checking\nTranslation and localization\nPilot testing materials\nVersion control management\n\n\n\nPlanning Questions To Be Answered\n\nWhat materials are needed for each research activity?\nHow do we ensure materials are unbiased?\nWhat fidelity level is appropriate?\nHow do we maintain consistency across materials?\nWhat backup options are needed?\nHow do we handle different languages or cultures?\nWhat technical requirements exist?\nHow do we validate material effectiveness?\nWhat accessibility considerations exist?\nHow do we manage iterations and versions?",
+    "crumbs": [
+      "Planning",
+      "Research Stimuli Preparation"
+    ]
+  },
+  {
+    "objectID": "02_interviews.html",
+    "href": "02_interviews.html",
+    "title": "Interviews",
+    "section": "",
+    "text": "A systematic method of gathering qualitative data through structured or semi-structured conversations with users, stakeholders, or subject matter experts."
+  },
+  {
+    "objectID": "02_interviews.html#description",
+    "href": "02_interviews.html#description",
+    "title": "Interviews",
+    "section": "Description",
+    "text": "Description\nUser interviews are a fundamental research method in UX that involves direct conversation with participants to gather insights about their experiences, needs, behaviors, and attitudes. The method draws from social science interviewing techniques, particularly qualitative research methods developed in sociology and anthropology.\nThis method stands out for its flexibility and depth, allowing researchers to explore both anticipated and unexpected areas of interest through careful questioning and active listening. Unlike surveys or quantitative methods, interviews enable researchers to probe deeper into responses, clarify ambiguities, and observe non-verbal cues.\nInterviews can range from highly structured to completely unstructured, though semi-structured interviews are most common in UX research. This approach uses a prepared interview guide while allowing for spontaneous follow-up questions and exploration of emerging themes. The method’s theoretical foundation combines elements of cognitive psychology, conversation analysis, and grounded theory approaches to qualitative research."
+  },
+  {
+    "objectID": "02_interviews.html#key-characteristics",
+    "href": "02_interviews.html#key-characteristics",
+    "title": "Interviews",
+    "section": "Key Characteristics",
+    "text": "Key Characteristics\n\nDirect interaction between researcher and participant\nFlexible exploration of topics\nRich qualitative data collection\nCombination of planned and spontaneous questioning\nObservable non-verbal communication"
+  },
+  {
+    "objectID": "02_interviews.html#variations",
+    "href": "02_interviews.html#variations",
+    "title": "Interviews",
+    "section": "Variations",
+    "text": "Variations\n\nStructured interviews - fixed questions in fixed order\nSemi-structured interviews - guided but flexible conversations\nUnstructured interviews - conversational, minimal guidance\nExpert interviews - focused on domain knowledge\nEthnographic interviews - conducted in context"
+  },
+  {
+    "objectID": "02_interviews.html#resources",
+    "href": "02_interviews.html#resources",
+    "title": "Interviews",
+    "section": "Resources",
+    "text": "Resources\n\n1-2 interviewers\nRecording equipment\nNote-taking materials\nInterview guides\nConsent forms\nQuiet space or meeting room"
+  },
+  {
+    "objectID": "02_interviews.html#research-application",
+    "href": "02_interviews.html#research-application",
+    "title": "Interviews",
+    "section": "Research Application",
+    "text": "Research Application\n\nWhen to Use\n\nEarly discovery research\nUnderstanding user needs and behaviors\nGathering detailed feedback on concepts\nExploring complex topics\nInvestigating specific incidents or experiences\n\n\n\nResearch Questions It Can Answer\n\nWhat are users’ goals and motivations?\nHow do users currently solve problems?\nWhat are users’ pain points and needs?\nHow do users think about specific concepts?\nWhat influences users’ decisions?\n\n\n\nTypes of Insights\n\nBehavioral patterns\nEmotional responses\nMental models\nUser needs and goals\nContext of use\nPersonal narratives\nDecision-making processes"
+  },
+  {
+    "objectID": "02_interviews.html#common-pitfalls-solutions",
+    "href": "02_interviews.html#common-pitfalls-solutions",
+    "title": "Interviews",
+    "section": "Common Pitfalls & Solutions",
+    "text": "Common Pitfalls & Solutions\n\nKnown Issues\n\nLeading questions biasing responses\nSocial desirability bias\nRecall bias in historical accounts\nInsufficient probing of responses\nPoor note-taking affecting analysis\n\n\n\nSolutions\n\nCarefully crafted neutral questions\nInterview guide review and testing\nActive listening techniques\nRecording sessions\nTwo-person interview teams\nStructured note-taking protocols\nRegular practice of interviewing skills"
+  },
+  {
+    "objectID": "02_interviews.html#integration",
+    "href": "02_interviews.html#integration",
+    "title": "Interviews",
+    "section": "Integration",
+    "text": "Integration\n\nComplementary Methods\n\nObservations\nSurveys\nDiary studies\nUsability testing\nJourney mapping\n\n\n\nMethod Combinations\n\nFollow with contextual inquiry\nPair with card sorting\nCombine with cognitive walkthrough\nPrecede participatory design sessions"
+  },
+  {
+    "objectID": "02_interviews.html#examples-case-studies",
+    "href": "02_interviews.html#examples-case-studies",
+    "title": "Interviews",
+    "section": "Examples & Case Studies",
+    "text": "Examples & Case Studies\n\nReal-World Applications\n\nHealthcare: Understanding patient journey experiences\nFinance: Investigating investment decision-making\nRetail: Exploring shopping behaviors and preferences\nEnterprise: Understanding workflow optimization needs\n\n\n\nScalability Issues\n\nTime-intensive for both conducting and analysis\nScheduling challenges with larger sample sizes\nConsistency across multiple interviewers\nResource requirements for transcription and analysis"
+  },
+  {
+    "objectID": "02_interviews.html#references-resources",
+    "href": "02_interviews.html#references-resources",
+    "title": "Interviews",
+    "section": "References & Resources",
+    "text": "References & Resources\n\nAcademic Sources\n\n“Interviewing Users” by Steve Portigal\n“Qualitative Research Interviewing” by Steinar Kvale\n“Universal Methods of Design” by Martin & Hanington\n\n\n\nTools & Software\n\nRecording and transcription tools\nVideo conferencing platforms\nAnalysis software (NVivo, ATLAS.ti)\nNote-taking and synthesis tools\nInterview guide templates\nConsent form templates"
+  },
+  {
+    "objectID": "02_contextual_inquiry.html",
+    "href": "02_contextual_inquiry.html",
+    "title": "Contextual Inquiry",
+    "section": "",
+    "text": "A semi-structured interview method conducted in the user’s own environment while they work, combining observation with directed conversation.",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#research-application",
+    "href": "02_contextual_inquiry.html#research-application",
+    "title": "Contextual Inquiry",
+    "section": "Research Application",
+    "text": "Research Application\n\nWhen to Use:\n\nEarly in the design process\nWhen understanding current workflows\nDiscovering unstated needs\nValidating assumed user behaviors\n\nResearch Questions It Can Answer:\n\nHow do users actually perform their work?\nWhat are the unstated needs and workarounds?\nWhat is the real context of use?\nWhat environmental factors impact the work?\n\nTypes of Insights:\n\nWork patterns and sequences\nEnvironmental constraints\nTool usage patterns\nCollaboration patterns\nWorkarounds and pain points",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#common-pitfalls-solutions",
+    "href": "02_contextual_inquiry.html#common-pitfalls-solutions",
+    "title": "Contextual Inquiry",
+    "section": "Common Pitfalls & Solutions",
+    "text": "Common Pitfalls & Solutions\n\nKnown Issues:\n\nParticipant performing for observer\nMissing key details while note-taking\nGetting sidetracked in conversation\n\nSolutions:\n\nClear introduction and expectations\nTwo-person research team when possible\nStructured observation guide\nRegular redirection to actual work",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#common-pitfalls-solutions-1",
+    "href": "02_contextual_inquiry.html#common-pitfalls-solutions-1",
+    "title": "Contextual Inquiry",
+    "section": "Common Pitfalls & Solutions",
+    "text": "Common Pitfalls & Solutions\n\nKnown Issues:\n\nParticipant performing for observer\nMissing key details while note-taking\nGetting sidetracked in conversation\n\nSolutions:\n\nClear introduction and expectations\nTwo-person research team when possible\nStructured observation guide\nRegular redirection to actual work",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#integration",
+    "href": "02_contextual_inquiry.html#integration",
+    "title": "Contextual Inquiry",
+    "section": "Integration",
+    "text": "Integration\n\nComplementary Methods:\n\nTask Analysis\nJourney Mapping\nService Blueprint\nAffinity Mapping (for analysis)\n\nMethod Combinations:\n\nFollow with participatory design\nPrecede with surveys\nCombine with diary studies",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#examples-case-studies",
+    "href": "02_contextual_inquiry.html#examples-case-studies",
+    "title": "Contextual Inquiry",
+    "section": "Examples & Case Studies",
+    "text": "Examples & Case Studies\n\nReal-World Applications:\n\nHealthcare: Studying nurse workflows in hospitals\nFinance: Understanding trading desk operations\nManufacturing: Analyzing quality control processes\n\nScalability Issues:\n\nResource-intensive\nAnalysis complexity grows with sample size\nDifficult to compare across contexts",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  },
+  {
+    "objectID": "02_contextual_inquiry.html#references-resources",
+    "href": "02_contextual_inquiry.html#references-resources",
+    "title": "Contextual Inquiry",
+    "section": "References & Resources",
+    "text": "References & Resources\n\nAcademic Sources:\n\n“Contextual Design” by Beyer & Holtzblatt\n“Handbook of Usability Testing” by Rubin & Chisnell\n\nTools & Software:\n\nObserver note-taking apps\nVoice or video recording software\nVideo analysis software",
+    "crumbs": [
+      "Data Collection",
+      "Contextual Inquiry"
+    ]
+  }
+]

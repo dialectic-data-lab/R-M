@@ -2,18 +2,45 @@ project:
   type: website
 
 website:
-  title: "R-M"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Index"
+        href: index.qmd
+      - section: "Planning"
+        contents:
+          - 01_goals.qmd
+          - 01_Experiment_Design.qmd
+          - 01_Alignment.qmd
+          - 01_planning.qmd
+          - 01_operations.qmd
+          - 01_ethics.qmd
+          - 01_stimuli.qmd
+      - section: "Data Collection"
+        contents:
+          - 02_contextual_inquiry.qmd
+      - section: "Analysis and Synthesis"
+        contents:
+          - raw-code.qmd
+          - custom-theme.qmd
+      - section: "Research in AI"
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
-    theme: lux
+    theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
 
 editor: visual
 
+sidebar:
+  contents: auto

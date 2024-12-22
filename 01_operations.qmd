@@ -1,0 +1,107 @@
+---
+title: "Research-ops"
+---
+
+Managing the operational aspects of research execution, including participant recruitment, scheduling, tools management, and day-to-day logistics to ensure smooth research implementation.
+
+### Description
+
+Research Operations (ResearchOps) focuses on creating and maintaining the infrastructure and processes needed for efficient research execution. It standardizes operational processes, manages research resources, and ensures consistent quality in research implementation.
+
+This method establishes the operational backbone that enables researchers to focus on research activities rather than administrative tasks. It includes managing participant recruitment, maintaining research tools and systems, coordinating schedules, and ensuring compliance with procedures and policies.
+
+ResearchOps typically operates continuously, supporting multiple research projects simultaneously while maintaining and improving operational efficiency over time.
+
+### Typical Activities
+
+-   Participant recruitment and management
+
+-   Research scheduling and calendar management
+
+-   Tool and platform administration
+
+-   Vendor relationship management
+
+-   Incentive processing and tracking
+
+-   Research environment setup and maintenance
+
+-   Data management and storage
+
+-   Consent and compliance tracking
+
+-   Documentation maintenance
+
+-   Quality assurance processes
+
+-   Training coordination
+
+-   Budget tracking and reporting
+
+### Variations
+
+-   Centralized Operations - Single team managing all research operations
+
+-   Distributed Operations - Embedded ops support in research teams
+
+-   Hybrid Model - Core ops team with embedded specialists
+
+-   Self-Service Model - Automated tools and processes
+
+-   Managed Service Model - Outsourced operational support
+
+### Resources Required
+
+-   Team Composition
+
+    -   Research Operations Manager
+
+    -   Recruitment Coordinator
+
+    -   Tools Administrator
+
+    -   Data Manager
+
+    -   Compliance Coordinator
+
+    -   Vendor Manager
+
+-   Tools and Templates
+
+    -   Participant database
+
+    -   Scheduling system
+
+    -   Research tools suite
+
+    -   Documentation repository
+
+    -   Tracking spreadsheets
+
+    -   Process documentation
+
+    -   Quality checklists
+
+    -   Onboarding guides
+
+### Planning Questions To Be Answered
+
+-   How do we scale research operations efficiently?
+
+-   What processes need standardization?
+
+-   How do we manage participant relationships?
+
+-   What tools and systems are needed?
+
+-   How do we ensure operational quality?
+
+-   What metrics indicate operational health?
+
+-   How do we maintain compliance at scale?
+
+-   What is our operational capacity?
+
+-   How do we handle peak demand periods?
+
+-   What backup systems are needed?

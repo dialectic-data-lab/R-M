@@ -1,11 +1,56 @@
 ---
-title: "R-M"
+title: "Introduction to User Research Methods"
 ---
 
-This is a Quarto website. Um, I really just published this beautiful site? uwu
+This compilation represents a systematic categorization of methodological approaches employed in Human-Computer Interaction (HCI) and user research. Rather than serving as a prescriptive guide, this reference work aims to establish a comprehensive taxonomy of research methods that have emerged and evolved within our field.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Purpose and Context
 
-```{r}
-1 + 1
+The methodological landscape of user research has expanded significantly as digital technologies have become increasingly embedded in social and organizational contexts. This collection addresses the need for a structured framework to understand and access this diverse methodological toolkit. It particularly focuses on methods that have demonstrated empirical validity and practical utility in technology-oriented research settings.
+
+## Organizational Framework
+
+The methods are systematically classified according to several key dimensions:
+
+-   **Data Type Classification**: Distinguishing between qualitative, quantitative, and mixed-method approaches
+-   **Mode of Investigation**: Categorizing methods by their primary investigative approach (e.g., Direct Elicitation, Observation, Tool-based)
+-   **Research Stage Application**: Identifying where in the research process each method is most appropriately deployed
+-   **Methodological Rigor**: Emphasizing established methods while acknowledging emerging approaches
+
+```{mermaid}
+flowchart LR
+  A[Discovery] --> B[Data Collection]
+  B --> C[Analysis]
+  C --> D[Synthesis]
+  D --> E[Insights]
+  E --> A[Discovery]
 ```
+
+## Practical Application
+
+This reference work is designed to support: - Research design and planning - Methodological triangulation - Cross-functional alignment in research initiatives - Academic-industry knowledge transfer
+
+The accompanying flash card system provides a pragmatic tool for research planning and methodological brainstorming, particularly valuable for early-career researchers and practitioners transitioning between different research contexts.
+
+## Notes on Usage
+
+When consulting this reference, consider:
+
+1.  The contextual appropriateness of methods
+2.  The resource implications of different methodological choices.
+3.  The complementarity between different approaches
+4.  The evolution of methods in response to technological change
+
+The classification presented here should be viewed as dynamic rather than definitive, acknowledging that methodological innovation continues to shape our field's investigative capabilities.
+
+This organizational framework contributes to the ongoing discourse on research methodology in HCI by:
+
+-   Providing a structured overview of the methodological landscape
+
+-   Facilitating methodological decision-making
+
+-   Supporting pedagogical objectives in research methods education
+
+-   Encouraging methodological rigor in both academic and industry contexts
+
+We welcome feedback on this approach sp we can continue to refine it to reflect our growing collective expertise and emerging research practices.
