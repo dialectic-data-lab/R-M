@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/02_interviews.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
     <loc>https://dialectic-data-lab.github.io/R-M/index.html</loc>
-    <lastmod>2024-12-21T19:50:16.780Z</lastmod>
+    <lastmod>2024-12-22T05:32:37.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_planning.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_Experiment_Design.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_Alignment.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_stimuli.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_ethics.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
   </url>
   <url>
     <loc>https://dialectic-data-lab.github.io/R-M/about.html</loc>
-    <lastmod>2024-12-21T19:50:16.780Z</lastmod>
+    <lastmod>2024-12-22T05:32:37.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/02_contextual_inquiry.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_operations.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dialectic-data-lab.github.io/R-M/01_goals.html</loc>
+    <lastmod>2024-12-22T05:32:37.954Z</lastmod>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>User Research Methods</title>
+<title>Experiment Design</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,9 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -83,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Index</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_goals.html">Planning</a></li><li class="breadcrumb-item"><a href="./01_Experiment_Design.html">Experiment Design</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -105,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Index</span></a>
   </div>
 </li>
@@ -126,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01_Experiment_Design.html" class="sidebar-item-text sidebar-link">
+  <a href="./01_Experiment_Design.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Experiment Design</span></a>
   </div>
 </li>
@@ -216,19 +213,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#purpose-and-context" id="toc-purpose-and-context" class="nav-link active" data-scroll-target="#purpose-and-context">Purpose and Context</a></li>
-  <li><a href="#organizational-framework" id="toc-organizational-framework" class="nav-link" data-scroll-target="#organizational-framework">Organizational Framework</a></li>
-  <li><a href="#practical-application" id="toc-practical-application" class="nav-link" data-scroll-target="#practical-application">Practical Application</a></li>
-  <li><a href="#notes-on-usage" id="toc-notes-on-usage" class="nav-link" data-scroll-target="#notes-on-usage">Notes on Usage</a></li>
+  <li><a href="#experiment-design-and-developing-protocols" id="toc-experiment-design-and-developing-protocols" class="nav-link active" data-scroll-target="#experiment-design-and-developing-protocols">Experiment Design and Developing Protocols</a></li>
+  <li><a href="#description" id="toc-description" class="nav-link" data-scroll-target="#description">Description</a></li>
+  <li><a href="#typical-activities" id="toc-typical-activities" class="nav-link" data-scroll-target="#typical-activities">Typical Activities</a></li>
+  <li><a href="#variations" id="toc-variations" class="nav-link" data-scroll-target="#variations">Variations</a></li>
+  <li><a href="#resources-required" id="toc-resources-required" class="nav-link" data-scroll-target="#resources-required">Resources Required</a></li>
+  <li><a href="#when-to-use" id="toc-when-to-use" class="nav-link" data-scroll-target="#when-to-use">When to Use</a></li>
+  <li><a href="#planning-questions-to-be-answered" id="toc-planning-questions-to-be-answered" class="nav-link" data-scroll-target="#planning-questions-to-be-answered">Planning Questions To Be Answered</a></li>
+  <li><a href="#common-challenges-and-solutions" id="toc-common-challenges-and-solutions" class="nav-link" data-scroll-target="#common-challenges-and-solutions">Common Challenges and Solutions</a></li>
+  <li><a href="#integration-points" id="toc-integration-points" class="nav-link" data-scroll-target="#integration-points">Integration Points</a></li>
+  <li><a href="#success-metrics" id="toc-success-metrics" class="nav-link" data-scroll-target="#success-metrics">Success Metrics</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_goals.html">Planning</a></li><li class="breadcrumb-item"><a href="./01_Experiment_Design.html">Experiment Design</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">User Research Methods</h1>
+<h1 class="title">Experiment Design</h1>
 </div>
 
 
@@ -245,62 +248,145 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This compilation represents a systematic categorization of methodological approaches employed in Human-Computer Interaction (HCI) and user research. Rather than serving as a prescriptive guide, this reference work aims to establish a comprehensive taxonomy of research methods that have emerged and evolved within our field.</p>
-<section id="purpose-and-context" class="level2">
-<h2 class="anchored" data-anchor-id="purpose-and-context">Purpose and Context</h2>
-<p>The methodological landscape of user research has expanded significantly as digital technologies have become increasingly embedded in social and organizational contexts. This collection addresses the need for a structured framework to understand and access this diverse methodological toolkit. It particularly focuses on methods that have demonstrated empirical validity and practical utility in technology-oriented research settings.</p>
+<section id="experiment-design-and-developing-protocols" class="level2">
+<h2 class="anchored" data-anchor-id="experiment-design-and-developing-protocols">Experiment Design and Developing Protocols</h2>
+<p>Structuring research studies that defines the appropriate methods, sampling strategy, and protocols to effectively answer research questions and test hypotheses.</p>
 </section>
-<section id="organizational-framework" class="level2">
-<h2 class="anchored" data-anchor-id="organizational-framework">Organizational Framework</h2>
-<p>The methods are systematically classified according to several key dimensions:</p>
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>Research Design is a critical planning method that transforms research goals and questions into structured, executable research plans. It focuses on selecting appropriate methodologies, defining sampling strategies, and creating detailed protocols that ensure research validity and reliability.</p>
+<p>This method combines scientific rigor with practical constraints to create robust research approaches that can be consistently executed. It includes determining appropriate methods, sample sizes, and data collection approaches while accounting for potential biases and limitations.</p>
+<p>Research Design typically occurs after goal setting and project planning but before detailed operational planning, though it may be iteratively refined based on pilot studies or changing requirements.</p>
+</section>
+<section id="typical-activities" class="level2">
+<h2 class="anchored" data-anchor-id="typical-activities">Typical Activities</h2>
 <ul>
-<li><strong>Data Type Classification</strong>: Distinguishing between qualitative, quantitative, and mixed-method approaches</li>
-<li><strong>Mode of Investigation</strong>: Categorizing methods by their primary investigative approach (e.g., Direct Elicitation, Observation, Tool-based)</li>
-<li><strong>Research Stage Application</strong>: Identifying where in the research process each method is most appropriately deployed</li>
-<li><strong>Methodological Rigor</strong>: Emphasizing established methods while acknowledging emerging approaches</li>
+<li><p>Research methodology selection</p></li>
+<li><p>Sampling strategy development</p></li>
+<li><p>Protocol creation and validation</p></li>
+<li><p>Bias identification and mitigation</p></li>
+<li><p>Validity and reliability planning</p></li>
+<li><p>Ethical considerations assessment</p></li>
+<li><p>Data collection planning</p></li>
+<li><p>Analysis approach definition</p></li>
+<li><p>Quality control planning</p></li>
+<li><p>Pilot testing design</p></li>
 </ul>
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-<pre class="mermaid mermaid-js">flowchart LR
-  A[Discovery] --&gt; B[Data Collection]
-  B --&gt; C[Analysis]
-  C --&gt; D[Synthesis]
-  D --&gt; E[Insights]
-  E --&gt; F[Product Strategy]
-  F --&gt; A[Discovery]
-</pre>
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
 </section>
-<section id="practical-application" class="level2">
-<h2 class="anchored" data-anchor-id="practical-application">Practical Application</h2>
-<p>This reference work is designed to support: - Research design and planning - Methodological triangulation - Cross-functional alignment in research initiatives - Academic-industry knowledge transfer</p>
-<p>The accompanying flash card system provides a pragmatic tool for research planning and methodological brainstorming, particularly valuable for early-career researchers and practitioners transitioning between different research contexts.</p>
-</section>
-<section id="notes-on-usage" class="level2">
-<h2 class="anchored" data-anchor-id="notes-on-usage">Notes on Usage</h2>
-<p>When consulting this reference, consider:</p>
-<ol type="1">
-<li>The contextual appropriateness of methods</li>
-<li>The resource implications of different methodological choices.</li>
-<li>The complementarity between different approaches</li>
-<li>The evolution of methods in response to technological change</li>
-</ol>
-<p>The classification presented here should be viewed as dynamic rather than definitive, acknowledging that methodological innovation continues to shape our field’s investigative capabilities.</p>
-<p>This organizational framework contributes to the ongoing discourse on research methodology in HCI by:</p>
+<section id="variations" class="level2">
+<h2 class="anchored" data-anchor-id="variations">Variations</h2>
 <ul>
-<li><p>Providing a structured overview of the methodological landscape</p></li>
-<li><p>Facilitating methodological decision-making</p></li>
-<li><p>Supporting pedagogical objectives in research methods education</p></li>
-<li><p>Encouraging methodological rigor in both academic and industry contexts</p></li>
+<li><p>Mixed Methods Design</p></li>
+<li><p>Longitudinal Studies</p></li>
+<li><p>Rapid Research Design</p></li>
+<li><p>Exploratory Research Design</p></li>
+<li><p>Experimental Design</p></li>
+<li><p>Comparative Studies</p></li>
+<li><p>Observational Research</p></li>
 </ul>
-<p>We welcome feedback on this approach sp we can continue to refine it to reflect our growing collective expertise and emerging research practices.</p>
+</section>
+<section id="resources-required" class="level2">
+<h2 class="anchored" data-anchor-id="resources-required">Resources Required</h2>
+<ul>
+<li><p>Team Composition</p>
+<ul>
+<li><p>Research methodologist</p></li>
+<li><p>Subject matter experts</p></li>
+<li><p>Research operations lead</p></li>
+<li><p>Ethics/compliance reviewer</p></li>
+<li><p>Statistical consultant (if needed)</p></li>
+</ul></li>
+<li><p>Tools and Templates</p>
+<ul>
+<li><p>Research protocol template</p></li>
+<li><p>Sampling framework</p></li>
+<li><p>Screening criteria</p></li>
+<li><p>Data collection instruments</p></li>
+<li><p>Analysis plan template</p></li>
+<li><p>Quality control checklists</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="when-to-use" class="level2">
+<h2 class="anchored" data-anchor-id="when-to-use">When to Use</h2>
+<ul>
+<li><p>New research initiatives</p></li>
+<li><p>Method validation needed</p></li>
+<li><p>Complex research questions</p></li>
+<li><p>Multi-phase studies</p></li>
+<li><p>High-stakes research</p></li>
+<li><p>Novel research contexts</p></li>
+<li><p>Regulatory requirements</p></li>
+<li><p>Scientific publication goals</p></li>
+</ul>
+</section>
+<section id="planning-questions-to-be-answered" class="level2">
+<h2 class="anchored" data-anchor-id="planning-questions-to-be-answered">Planning Questions To Be Answered</h2>
+<ul>
+<li><p>Which methods best address our questions?</p></li>
+<li><p>What is the appropriate sample size and composition?</p></li>
+<li><p>How do we ensure valid and reliable results?</p></li>
+<li><p>What are potential sources of bias?</p></li>
+<li><p>How do we maintain research quality?</p></li>
+<li><p>What ethical considerations exist?</p></li>
+<li><p>How will data be collected and analyzed?</p></li>
+<li><p>What controls are needed?</p></li>
+</ul>
+</section>
+<section id="common-challenges-and-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="common-challenges-and-solutions">Common Challenges and Solutions</h2>
+<ul>
+<li><p>Challenges</p>
+<ul>
+<li><p>Method selection uncertainty</p></li>
+<li><p>Sample access limitations</p></li>
+<li><p>Resource constraints</p></li>
+<li><p>Validity concerns</p></li>
+<li><p>Time pressure</p></li>
+</ul></li>
+<li><p>Solutions</p>
+<ul>
+<li><p>Method selection frameworks</p></li>
+<li><p>Flexible sampling strategies</p></li>
+<li><p>Pilot studies</p></li>
+<li><p>Peer review process</p></li>
+<li><p>Quality control procedures</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="integration-points" class="level2">
+<h2 class="anchored" data-anchor-id="integration-points">Integration Points</h2>
+<ul>
+<li><p>Goal Development</p>
+<ul>
+<li><p>Research question alignment</p></li>
+<li><p>Hypothesis testing approach</p></li>
+</ul></li>
+<li><p>Project Planning</p>
+<ul>
+<li><p>Resource requirements</p></li>
+<li><p>Timeline feasibility</p></li>
+</ul></li>
+<li><p>Research Operations</p>
+<ul>
+<li><p>Implementation planning</p></li>
+<li><p>Quality control</p></li>
+<li><p>Data management</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="success-metrics" class="level2">
+<h2 class="anchored" data-anchor-id="success-metrics">Success Metrics</h2>
+<ul>
+<li><p>Method appropriateness</p></li>
+<li><p>Sample quality</p></li>
+<li><p>Data validity</p></li>
+<li><p>Protocol compliance</p></li>
+<li><p>Research quality</p></li>
+<li><p>Ethical compliance</p></li>
+<li><p>Time efficiency</p></li>
+<li><p>Resource efficiency</p></li>
+</ul>
 
 
 </section>

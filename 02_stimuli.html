@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>User Research Methods</title>
+<title>Research Stimuli Preparation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8bbaaaf0323beada29fc6b9de3c2aed9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8e0115ac851389d5f4bca2ea0a75eb9d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -66,9 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -83,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Index</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02_stimuli.html">Data Collection</a></li><li class="breadcrumb-item"><a href="./02_stimuli.html">Research Stimuli Preparation</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -105,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Index</span></a>
   </div>
 </li>
@@ -127,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./01_Experiment_Design.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Experiment Design</span></a>
+ <span class="menu-text">Research Design</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -151,13 +148,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./01_ethics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ethics &amp; Governance</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./01_stimuli.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">PReparing Stimuli</span></a>
+ <span class="menu-text">Research Ethics &amp; Governance</span></a>
   </div>
 </li>
       </ul>
@@ -173,10 +164,16 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02_contextual_inquiry.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Contextual Inquiry</span></a>
+  <a href="./02_stimuli.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Research Stimuli Preparation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+ <span class="menu-text">layout-knitr.qmd</span>
+  </li>
+          <li class="sidebar-item">
+ <span class="menu-text">layout-jupyter.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -211,29 +208,20 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#purpose-and-context" id="toc-purpose-and-context" class="nav-link active" data-scroll-target="#purpose-and-context">Purpose and Context</a></li>
-  <li><a href="#organizational-framework" id="toc-organizational-framework" class="nav-link" data-scroll-target="#organizational-framework">Organizational Framework</a></li>
-  <li><a href="#practical-application" id="toc-practical-application" class="nav-link" data-scroll-target="#practical-application">Practical Application</a></li>
-  <li><a href="#notes-on-usage" id="toc-notes-on-usage" class="nav-link" data-scroll-target="#notes-on-usage">Notes on Usage</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content column-body" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02_stimuli.html">Data Collection</a></li><li class="breadcrumb-item"><a href="./02_stimuli.html">Research Stimuli Preparation</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">User Research Methods</h1>
+<h1 class="title">Research Stimuli Preparation</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-body">
+<div class="quarto-title-meta column-page-right">
 
     
   
@@ -245,65 +233,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This compilation represents a systematic categorization of methodological approaches employed in Human-Computer Interaction (HCI) and user research. Rather than serving as a prescriptive guide, this reference work aims to establish a comprehensive taxonomy of research methods that have emerged and evolved within our field.</p>
-<section id="purpose-and-context" class="level2">
-<h2 class="anchored" data-anchor-id="purpose-and-context">Purpose and Context</h2>
-<p>The methodological landscape of user research has expanded significantly as digital technologies have become increasingly embedded in social and organizational contexts. This collection addresses the need for a structured framework to understand and access this diverse methodological toolkit. It particularly focuses on methods that have demonstrated empirical validity and practical utility in technology-oriented research settings.</p>
-</section>
-<section id="organizational-framework" class="level2">
-<h2 class="anchored" data-anchor-id="organizational-framework">Organizational Framework</h2>
-<p>The methods are systematically classified according to several key dimensions:</p>
-<ul>
-<li><strong>Data Type Classification</strong>: Distinguishing between qualitative, quantitative, and mixed-method approaches</li>
-<li><strong>Mode of Investigation</strong>: Categorizing methods by their primary investigative approach (e.g., Direct Elicitation, Observation, Tool-based)</li>
-<li><strong>Research Stage Application</strong>: Identifying where in the research process each method is most appropriately deployed</li>
-<li><strong>Methodological Rigor</strong>: Emphasizing established methods while acknowledging emerging approaches</li>
-</ul>
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-<pre class="mermaid mermaid-js">flowchart LR
-  A[Discovery] --&gt; B[Data Collection]
-  B --&gt; C[Analysis]
-  C --&gt; D[Synthesis]
-  D --&gt; E[Insights]
-  E --&gt; F[Product Strategy]
-  F --&gt; A[Discovery]
-</pre>
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
-</section>
-<section id="practical-application" class="level2">
-<h2 class="anchored" data-anchor-id="practical-application">Practical Application</h2>
-<p>This reference work is designed to support: - Research design and planning - Methodological triangulation - Cross-functional alignment in research initiatives - Academic-industry knowledge transfer</p>
-<p>The accompanying flash card system provides a pragmatic tool for research planning and methodological brainstorming, particularly valuable for early-career researchers and practitioners transitioning between different research contexts.</p>
-</section>
-<section id="notes-on-usage" class="level2">
-<h2 class="anchored" data-anchor-id="notes-on-usage">Notes on Usage</h2>
-<p>When consulting this reference, consider:</p>
-<ol type="1">
-<li>The contextual appropriateness of methods</li>
-<li>The resource implications of different methodological choices.</li>
-<li>The complementarity between different approaches</li>
-<li>The evolution of methods in response to technological change</li>
-</ol>
-<p>The classification presented here should be viewed as dynamic rather than definitive, acknowledging that methodological innovation continues to shape our field’s investigative capabilities.</p>
-<p>This organizational framework contributes to the ongoing discourse on research methodology in HCI by:</p>
-<ul>
-<li><p>Providing a structured overview of the methodological landscape</p></li>
-<li><p>Facilitating methodological decision-making</p></li>
-<li><p>Supporting pedagogical objectives in research methods education</p></li>
-<li><p>Encouraging methodological rigor in both academic and industry contexts</p></li>
-</ul>
-<p>We welcome feedback on this approach sp we can continue to refine it to reflect our growing collective expertise and emerging research practices.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -396,7 +327,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/dialectic-data-lab\.github\.io\/R-M\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
